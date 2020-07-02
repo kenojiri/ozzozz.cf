@@ -1,0 +1,12 @@
+title: ozzozz.cf
+description: |
+  a test website of Jekyll and GitHub Pages proxied by CloudFlare.
+baseurl: ""
+url: "https://ozzozz.cf"
+theme: minima
+plugins:
+  - jekyll-feed
+timezone: Asia/Tokyo
+host: 0.0.0.0
+port: 4000
+include: ["CNAME"]
